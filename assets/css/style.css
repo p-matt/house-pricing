@@ -1,0 +1,143 @@
+html{
+    background-size: cover !important;
+    background: url("../image/bg.jpg");
+}
+
+#nav{
+    height: 5em;
+    margin-bottom: 3em;
+}
+
+h1{
+    color: whitesmoke;
+    text-decoration: underline;
+    font-size: 4em;
+    width: 100%;
+}
+
+h2{
+    color: white;
+    width: 80%;
+    margin: auto;
+    border-radius: 40px 40px 0px 0px;
+    background: rgb(0,20,103);
+    background: radial-gradient(circle, rgba(0,20,103,1) 0%, rgba(40,77,143,1) 31%, rgba(68,117,171,1) 60%, rgba(153,238,255,1) 100%);
+}
+h3{
+    margin-top: 1em;
+}
+
+#link-tool{
+    text-align: left;
+}
+
+#link-dashboard{
+    text-align: right;
+}
+
+#link-tool, #link-dashboard{
+    font-size: 3em;
+    width: 25%;
+    margin: auto;
+    color: whitesmoke;
+}
+
+body{
+    background: unset;
+}
+
+#title, #subtitle{
+    margin: 0;
+    text-align: center;
+}
+
+#menu{
+    width: 80%;
+    margin: auto;
+    background: whitesmoke;
+}
+
+.card-title{
+    vertical-align: top;
+    display: inline-block;
+    width: 16.666%;
+}
+
+#input > input, #input-age, #input-ocean-proximity, #input-income,.dash-dropdown{
+    width:8.333%;
+    margin-right: 8.333%;
+    display: inline-block;
+    vertical-align: bottom;
+}
+
+Button{
+    margin-top: 2em;
+}
+
+#input-graph{
+    width: 80%;
+    margin: auto;
+}
+
+#input-X, #input-Y{
+    width: 30%;
+    display: inline-block;
+}
+
+#html-output{
+    text-align: center;
+    margin: 2em;
+}
+
+.dash-graph.dynamic-graphic, .dynamic-graphic{
+    display: inline-block;
+    width: 49%;
+    margin-bottom: 5em;
+    vertical-align: top;
+}
+
+.dash-graph.dynamic-graphic-large{
+    display: inline-block;
+    width: 100%;
+    margin-bottom: 5em;
+    vertical-align: top;
+}
+
+.graph > h3{
+    text-align: center;
+}
+
+.svg-container{
+    display: block;
+    margin: auto !important;
+}
+
+
+#label-slider{
+    margin-top: 0;
+}
+
+.slider{
+    padding: 0 !important;
+    width: 70%;
+    margin: auto;
+}
+
+.container-slider{
+    width: 33%;
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+}
+
+#menu-button-1, #menu-button-2{
+    width: 20em;
+    height: 5em;
+    font-size: 20px;
+    margin: 5% 0% 0% 40%;
+}
+
+a{
+    margin: 3em;
+    display: block;
+}
