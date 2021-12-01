@@ -49,7 +49,7 @@ def get_input(_id, _type):
 asset_folder = str(Path(getcwd()).parent.absolute()) + "\\assets"
 
 inputs_features = ["age", "ttl-rooms", "ttl-bedrooms", "ocean-proximity", "population", "income"]
-inputs = [get_input(id=inputs_features[i], type="number") for i in range(len(inputs_features))]
+inputs = [get_input(_id=inputs_features[i], _type="number") for i in range(len(inputs_features))]
 inputs_html = {key: value for key, value in zip(inputs_features, inputs)}
 submit_button = dbc.Button("Estimate the house value", className="btn btn-lg btn-primary", id="submit-button")
 output = html.Div("", id="output")
