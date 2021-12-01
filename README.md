@@ -20,9 +20,9 @@ Déploiement d'un dashboard de dataviz et d'un outil d'estimation avec Dash et P
 
 ## Dashboard
 
-<img width="50%" style="display: inline-block" src="https://user-images.githubusercontent.com/74459226/144221351-9209df6c-9d2e-461d-bd02-12e933500ffe.PNG"/>
+<img style="display: inline-block; width="50%" src="https://user-images.githubusercontent.com/74459226/144221351-9209df6c-9d2e-461d-bd02-12e933500ffe.PNG"/>
 
-<img width="50%" style="display: inline-block" src="https://user-images.githubusercontent.com/74459226/144221357-44c60c4e-c27d-46d2-9b56-61b4c752a69c.png"/>
+<img style="display: inline-block; width="50%" src="https://user-images.githubusercontent.com/74459226/144221357-44c60c4e-c27d-46d2-9b56-61b4c752a69c.png"/>
 
 <img width="100%" src="https://user-images.githubusercontent.com/74459226/144221354-7ec4b62d-110a-446d-9c12-f73cb2289d80.png"/>
 
